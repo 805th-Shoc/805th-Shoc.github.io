@@ -4,7 +4,6 @@ baseURL = 'https://805th-Shoc.github.io'
 title = 'Engineering Playbook'
 theme = 'hugo-book'
 
-
 # Book configuration
 disablePathToLower = true
 enableGitInfo = true
