@@ -1,7 +1,7 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
 baseURL = 'https://805th-Shoc.github.io'
-title = 'Engineering-Playbook'
+title = 'Engineering Playbook'
 theme = 'hugo-book'
 
 # Book configuration
