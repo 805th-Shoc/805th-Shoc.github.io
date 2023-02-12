@@ -6,7 +6,7 @@ The definition of done (DoD) is when all conditions, or acceptance criteria, tha
 A definition of done can be written for a user story, task, or bug.
 
 ## Why it’s important
-The definition of done is a tool we use to ensure consistent, high-quality work; and help the team decide when we have finished a piece of work and can move on to the next thing. By defining the work in precise terms, we ensure we’re spending our time and money on delivering the highest value. It helps us avoid churn and keep the train moving. Every Truss project team should have an agreed upon definition of done that’s specific to the project.
+The definition of done is a tool we use to ensure consistent, high-quality work; and help the team decide when we have finished a piece of work and can move on to the next thing. By defining the work in precise terms, we ensure we’re spending our time and money on delivering the highest value. It helps us avoid churn and keep the train moving. Every SHOC project team should have an agreed upon definition of done that’s specific to the project.
 
 ## Who uses it
 - Engineering uses it to ensure a certain level of code integrity or all tickets.

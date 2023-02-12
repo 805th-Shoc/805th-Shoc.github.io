@@ -26,7 +26,7 @@ The steel cable means that you have data flow set up between all components of t
 
 So, for example, you’re building a web application. Based on your initial understanding of the problem space, you believe you will need one load balancer talking to a tier of application servers, talking to a Postgres database AND data in an S3 bucket AND a caching system.
 
-In this case, Truss defines the steel cable as the minimal infrastructure for:
+In this case, SHOC defines the steel cable as the minimal infrastructure for:
 
 - a load balancer that is configured to talk to…
 - your application servers, which can receive a HTTP request

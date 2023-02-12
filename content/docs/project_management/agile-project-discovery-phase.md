@@ -110,7 +110,7 @@ Understanding context includes developing a picture of what that wider journey l
 As you build out your map, you’ll probably notice that the problem spans across multiple departments, people, and systems. Spend some time during discovery learning from those other teams and organizations.
 
 ### Accessibility and Inclusion Practices
-You’ll also need to learn enough about your users’ accessibility requirements to let you work out whether the problem space you’re looking at presents any particular challenges from an inclusion point of view. Government clients require section 508 compliance for all government software. We strive to maintain a minimum level of accessibility for all products delivered from Truss.
+You’ll also need to learn enough about your users’ accessibility requirements to let you work out whether the problem space you’re looking at presents any particular challenges from an inclusion point of view. Government clients require section 508 compliance for all government software. We strive to maintain a minimum level of accessibility for all products delivered from SHOC.
 
 Bear in mind that, in the US, 1 in 4 people have some kind of disability. And that accessibility covers a range of other needs for people who do not have a disability. When you design for disabilities, you make things better for everyone in the process.
 
@@ -164,9 +164,9 @@ In addition, you’ll need to consider:
 - what frameworks will work for you and the client
 
 ### Sharing What You Learn
-“Help people follow us” and “Build alliances” are two core Truss values. The way teams demonstrate this is to work openly and transparently both within our Truss teams and with our clients and partners. You can follow this by proactively sharing research, inviting participation, asking clarifying questions, and speaking candidly with kindness.
+“Help people follow us” and “Build alliances” are two core SHOC values. The way teams demonstrate this is to work openly and transparently both within our teams and with our clients and partners. You can follow this by proactively sharing research, inviting participation, asking clarifying questions, and speaking candidly with kindness.
 
-This is especially crucial during research phases. Not every team member can be in every single research activity; you will likely have multiple workstreams of discovery going at the same time. Team members should share what they’ve learned across the team to encourage a common understanding of the project. Share outs might include documentation, demos, synthesis sessions, or discussions. A benefit to sharing your work early and often is that is also helps your team develop trust and confidence with our users, stakeholders, clients, and Trussels. This all leads to “Make good coffee.”
+This is especially crucial during research phases. Not every team member can be in every single research activity; you will likely have multiple workstreams of discovery going at the same time. Team members should share what they’ve learned across the team to encourage a common understanding of the project. Share outs might include documentation, demos, synthesis sessions, or discussions. A benefit to sharing your work early and often is that is also helps your team develop trust and confidence with our users, stakeholders, clients, and Rhinos. This all leads to “Make good coffee.”
 
 ### Sharing Work with the Client
 At a minimum, you must share out work with your team and stakeholders.
@@ -176,7 +176,6 @@ At a minimum, you must share out work with your team and stakeholders.
 - Post findings publicly in shared Slack channels, etc. to work transparently and inform clients and other vendors
 - Utilize a centralized repository to hold all recorded interviews, workshops, document reviews, etc. in a tool like Dovetail or Confluence
 - Provide your team and clients with short readouts during discovery to share what we’re hearing
-- Create a Google Drive folder for shared documents in the Truss “Public” directory
 
 ### Sharing Work Externally
 Unless confidentiality issues mean you cannot, talk publicly about what you’re learning. You could do this by publishing blog posts or running open show and tells. You can usually ask your project’s delivery manager or client success manager about what information can be publicly shared.

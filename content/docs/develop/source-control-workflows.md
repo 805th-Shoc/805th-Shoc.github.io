@@ -1,5 +1,5 @@
 # Git Workflow
-We've tried to come up with some standardized workflows for working with Git. This page hopes to capture them so that new Trussels can work cleanly with other developers and minimize friction.
+We've tried to come up with some standardized workflows for working with Git. This page hopes to capture them so that new Rhino's can work cleanly with other developers and minimize friction.
 
 ## Branching Strategy
 There are several well-established branching strategies and workflows out there. [This article](https://web.archive.org/web/20191115042322/https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf) covers four leading types.
