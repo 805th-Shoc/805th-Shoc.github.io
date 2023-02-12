@@ -18,7 +18,7 @@ For web-based Git operations, GitHub will use your primary email unless you choo
 Note that with 2-factor-authentication enabled, in order to push local code to GitHub through HTTPS, you need to [create a personal access token](https://gist.github.com/ateucher/4634038875263d10fb4817e5ad3d332f) and use that as your password.
 
 ## pre-commit
-We use [pre-commit](https://pre-commit.com/) to easily add git hooks to our Git repos. This allows us to automate things like checking for merge conflicts or mistakenly adding secret keys in our code. See [this example](https://github.com/trussworks/circleci-docker-primary/blob/master/.pre-commit-config.yaml) pre-commit config file from one of our projects.
+We use [pre-commit](https://pre-commit.com/) to easily add git hooks to our Git repos. This allows us to automate things like checking for merge conflicts or mistakenly adding secret keys in our code. See [this example](TODO) pre-commit config file from one of our projects.
 
 Since git does not distribute hooks when a repository is cloned, you will have to install pre-commit in each cloned repo manually using ```pre-commit install --install-hooks``` or pre-commit will not run in that repo. To assist with automating this step, pre-commit has a [feature](https://pre-commit.com/#pre-commit-init-templatedir) to exploit the [template directory](https://git-scm.com/docs/git-init#_template_directory) setting in git:
 

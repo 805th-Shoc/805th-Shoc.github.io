@@ -9,7 +9,7 @@ To update the branch name use the npm tool [lgarron/main-branch](https://github.
 
 ```
 npm install -g main-branch
-main-branch trussworks/master-to-main-test replace master main
+main-branch repo sample/master-to-main-test replace master main
 ```
 
 Follow up with local modifications:

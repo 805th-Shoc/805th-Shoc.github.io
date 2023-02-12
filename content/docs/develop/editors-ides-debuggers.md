@@ -6,7 +6,7 @@ We don't care which editor/IDE/debugger that you use - it's your workflow. That 
 In this section you will find overviews of the range of tools to use and suggestions on how best to configure each tool for the situations we most often use them.
 
 ## Editors
-List of editors that Truss engineers use (sorted alphabetically):
+List of editors that  engineers use (sorted alphabetically):
 
 - Atom
 - Emacs

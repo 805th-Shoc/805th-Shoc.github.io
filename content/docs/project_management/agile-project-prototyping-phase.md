@@ -118,13 +118,13 @@ There are a few other things that you’ll need to consider in this phase. You�
 
 - the sorts of programming tools you’d like to choose for beta and why you’d get value for money
 - how you’ll identify threats to your service, how you’ll deal with them and how you’ll stay up to date with threats
-- whether or not you’ll open source your code; Truss has a preference for doing this where possible, but it may depend on the client
+- whether or not you’ll open source your code; SHOC has a preference for doing this where possible, but it may depend on the client
 - whether or not you’re going to be using common platforms
 - how your users would be affected if your service had technical problems
 
 You should also continue to refine the metrics you’ll use to [measure how successful your service is](https://www.gov.uk/service-manual/measuring-success).
 
-If you’ve created any new design patterns - or learned anything useful about an existing design pattern - you should share what you’ve learned in the Truss playbooks.
+If you’ve created any new design patterns - or learned anything useful about an existing design pattern - you should share what you’ve learned in the SHOC playbooks.
 
 Related guides
 You may find these guides useful:
